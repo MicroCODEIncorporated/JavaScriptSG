@@ -55,8 +55,8 @@ Contributors names and contact info
 
 ## Version History
 
-* 0.0
-    * Initial Release
+* 0.1 - Monospaced Font examples and recommendations, CESR 'Caesar' statements.
+* 0.0 - Initial Release
 
 
 
