@@ -23,8 +23,9 @@ This defines our documentation rules, code style rules, and code ordering rules.
 
 * This is just a PDF to read, but be sure to use it in conjunction with our JavaScript Code Templates.
 ```
-mcodeTemplate.html
-mcodeTemplate.js
+indexTemplate.html
+moduleTemplate.js
+classTemplate.js
 ```
 
 
