@@ -32,8 +32,7 @@ classTemplate.js
 
 ## Help
 
-If there is anyting you do not understand about using this guide (along with our templates) get with other team members.
-Do NOT make assumptions about it use.
+If there is anyting you do not understand about using this guide (along with our templates) get with other team members. Do NOT make assumptions about it use.
 
 
 
@@ -57,10 +56,14 @@ Contributors names and contact info
 
 ## Version History
 
-* 0.2 - Fat Arrow Functions
-* 0.1 - Monospaced Font examples and recommendations, CESR 'Caesar' statements.
+* 0.7 - Added JSDocs information
+* 0.6 - Added notes about FIRA Font
+* 0.5 - Added notes about A.I. assisting with consistent code
+* 0.4 - Fat Arrow Functions
+* 0.3 - Corrections and explanations
+* 0.2 - Example pictures of code
+* 0.1 - Monospaced Font examples and recommendations, CAESAR 'Hail Caesar!' statements.
 * 0.0 - Initial Release
-
 
 
 ## License
