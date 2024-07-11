@@ -56,6 +56,7 @@ Contributors names and contact info
 
 ## Version History
 
+* 0.8 - Updated various sections and added more notes about JSDocs usage
 * 0.7 - Added JSDocs information
 * 0.6 - Added notes about FIRA Font
 * 0.5 - Added notes about A.I. assisting with consistent code
